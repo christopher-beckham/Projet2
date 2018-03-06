@@ -1,6 +1,7 @@
 # Projet2 - Le cancer, une nouvelle espèce de chat
 
 Titre: Visualiser un transcriptome tumoral par l'intermédiaire d'une image de chat
+
 Présenté par Assya Trofimov des laboratoires des Drs. Perreault et Lemieux à l'Institut de Recherche en Immunologie et Cancer (IRIC).
 
 Les réseaux de neurones artificiels sont des modèles statistiques qui apprennent des règles simples afin de maximiser le résultat. Plusieurs modèles de neurones artificiels existent pour interpréter mais également pour générer des données (par exemple des images). 
